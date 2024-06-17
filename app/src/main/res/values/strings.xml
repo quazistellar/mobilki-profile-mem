@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">android_laba1</string>
+    <string name="sign_in">SIGN IN</string>
+    <string name="username"><b>Username</b></string>
+    <string name="password"><b>Password</b></string>
+</resources>
+

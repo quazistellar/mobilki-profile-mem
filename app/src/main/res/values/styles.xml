@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- основа -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+
+        <item name="colorPrimary">@color/app_color1</item>
+        <item name="colorPrimaryDark">@color/app_color2</item>
+        <item name="colorAccent">@color/app_color2</item>
+        <!-- Цвет фона -->
+        <item name="android:background">@color/app_color1</item>
+        <!-- Цвет текста -->
+        <item name="android:textColor">@color/black</item>
+    </style>
+
+    <!-- светлая -->
+    <style name="AppTheme.Light" parent="AppTheme">
+        <!-- Светлые цвета -->
+        <item name="colorPrimary">@color/app_color1</item>
+        <item name="colorPrimaryDark">@color/app_color2</item>
+        <item name="colorAccent">@color/app_color2</item>
+        <!-- Цвет фона -->
+        <item name="android:background">@color/white</item>
+        <!-- Цвет текста -->
+        <item name="android:textColor">@color/app_color1</item>
+    </style>
+
+</resources>
